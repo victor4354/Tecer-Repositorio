@@ -1,0 +1,19 @@
+Historias de lenguaje c
+Lo que se:
+Lenguaje compilado fuertemente tipado que fue desarrollado después de otros lenguajes como A y B
+La mayoría de los lenguajes de programación están desarrollados en c
+Se usa para el desarrollo de sistemas operativos, el kernel de GNU/Linux está escrito en lenguaje c
+Los creadores fueron Denis Richie y Brian Kernigham
+¿Qué?
+Lenguaje de propósito general no depende del Hardware por lo que se puede emplear un directorio sistema operativo orientado uso en sistemas operativos UNIX desarrollado entre 1962 y 1972
+¿Quién?
+Denis Richie y Brian Kernighan
+¿Cómo?
+Desarrollo como evoluciona de A y B, para generar un sistema operativo estable
+¿Dónde?
+Laboratorio Bell hoy AT&T
+Ejemplo:Hola mundo
+
+
+
+
